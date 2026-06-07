@@ -1,0 +1,71 @@
+Minnesota_Digital_Due_Process_Packet/
+│
+├── 00_README_START_HERE/
+│   ├── 00_How_To_Use_This_Packet.md
+│   ├── 01_Meeting_Pitch_Roadmap.md
+│   └── 02_Contact_Strategy_and_Stakeholder_Map.md
+│
+├── 01_ONE_PAGE_SUMMARY/
+│   ├── 01_Digital_Due_Process_One_Pager.md
+│   └── 01_Digital_Due_Process_One_Pager.pdf
+│
+├── 02_LEGISLATIVE_BRIEF/
+│   ├── 02_Legislative_Brief.md
+│   ├── 02_Legislative_Brief.pdf
+│   └── 02_Key_Talking_Points.md
+│
+├── 03_PROBLEM_AND_EVIDENCE/
+│   ├── 03_Problem_Statement.md
+│   ├── 03_Real_World_Use_Cases_AI_Government.md
+│   ├── 03_Risk_Scenarios.md
+│   └── 03_Existing_Law_Gaps_Analysis.md
+│
+├── 04_DRAFT_LEGISLATION/
+│   ├── 04_MN_Digital_Due_Process_Act_FULL_BILL.md
+│   ├── 04_MN_Digital_Due_Process_Act_FULL_BILL.pdf
+│   ├── 04_Section_By_Section_Explanation.md
+│   └── 04_Definitions_Deep_Dive.md
+│
+├── 05_CONSTITUTIONAL_SUPPORT/
+│   ├── 05_Due_Process_Analysis.md
+│   ├── 05_Fourth_Amendment_Relevance.md
+│   ├── 05_Precedent_and_Case_Law_Summary.md
+│   └── 05_Legal_Justification_Framework.md
+│
+├── 06_FISCAL_AND_IMPLEMENTATION/
+│   ├── 06_Fiscal_Impact_Assumptions.md
+│   ├── 06_Agency_Implementation_Model.md
+│   ├── 06_Compliance_Cost_Estimates.md
+│   └── 06_Rollout_Timeline.md
+│
+├── 07_STAKEHOLDER_ANALYSIS/
+│   ├── 07_Support_Coalition_Map.md
+│   ├── 07_Opposition_Risk_Assessment.md
+│   ├── 07_Lobbying_Risk_Factors.md
+│   └── 07_Message_Framing_Strategy.md
+│
+├── 08_FAQ_AND_REBUTTALS/
+│   ├── 08_Legislator_FAQ.md
+│   ├── 08_Common_Opposition_Arguments.md
+│   ├── 08_Technical_Objections_and_Responses.md
+│   └── 08_Short_Rebuttal_Soundbites.md
+│
+├── 09_REAL_WORLD_EXAMPLES/
+│   ├── 09_Algorithmic_Decision_Case_Studies.md
+│   ├── 09_Public_Sector_AI_Use_Cases.md
+│   ├── 09_Missed_Errors_and_Harms.md
+│   └── 09_International_Comparisons.md
+│
+├── 10_LEGISLATIVE_OUTREACH/
+│   ├── 10_Legislator_Contact_List_Template.xlsx
+│   ├── 10_Email_Intro_Letter.md
+│   ├── 10_Meeting_Script.md
+│   ├── 10_Committee_Testimony_Draft.md
+│   └── 10_Follow_Up_Sequence.md
+│
+└── 11_APPENDICES/
+    ├── 11_Glossary_of_Terms.md
+    ├── 11_Definition_of_AI_and_Automation.md
+    ├── 11_Model_Legislation_Comparisons.md
+    ├── 11_Data_Privacy_Law_Comparison_Table.md
+    └── 11_Source_References.md
