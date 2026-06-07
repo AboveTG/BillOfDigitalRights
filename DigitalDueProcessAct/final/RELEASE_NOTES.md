@@ -17,3 +17,11 @@ Suggested next steps:
 - Pro-bono legal review (use `templates/PROBONO_LEGAL_CHECKLIST.md`)
 - Distribute to legislative staff and offer briefings
 - Optionally publish a DOI via Zenodo for persistent citation
+
+Zenodo DOI
+---------
+This release has been archived on Zenodo: https://doi.org/10.5281/zenodo.20578674
+
+Citation
+--------
+Tomczyk, Mitchell D.; AboveTG. Minnesota Digital Due Process Act (v1.0). Zenodo. 2026. DOI: 10.5281/zenodo.20578674
